@@ -1,0 +1,138 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+partPop0_14;Part des 0-14 ans dans la population;;;NUM;8
+partPop15_24;Part des 15-24 ans dans la population;;;NUM;8
+partPop25_59;Part des 25-59 ans dans la population;;;NUM;8
+partPop60_74;Part des 60-74 ans dans la population;;;NUM;8
+partPop75p;Part des 75 ans et plus dans la population;;;NUM;8
+indiceJeunesse;Indice de jeunesse;;;NUM;8
+partPopF;Part des femmes dans la population;;;NUM;8
+partPop0_14F;Part des 0-14 ans dans la population des femmes;;;NUM;8
+partPop15_24F;Part des 15-24 ans dans la population des femmes;;;NUM;8
+partPop25_59F;Part des 25-59 ans dans la population des femmes;;;NUM;8
+partPop60_74F;Part des 60-74 ans dans la population des femmes;;;NUM;8
+partPop75pF;Part des 75 ans et plus dans la population des femmes;;;NUM;8
+indiceJeunesseF;Indice de jeunesse des femmes;;;NUM;8
+indiceJeunesseH;Indice de jeunesse des hommes;;;NUM;8
+partPopEt;Part des étrangers dans la population;;;NUM;8
+partPop0_14Et;Part des 0-14 ans dans la population des étrangers;;;NUM;8
+partPop15_24Et;Part des 15-24 ans dans la population des étrangers;;;NUM;8
+partPop25_59Et;Part des 25-59 ans dans la population des étrangers;;;NUM;8
+partPop60_74Et;Part des 60-74 ans dans la population des étrangers;;;NUM;8
+partPop75pEt;Part des 75 ans et plus dans la population des étrangers;;;NUM;8
+indiceJeunesseEt;Indice de jeunesse des étrangers;;;NUM;8
+partPopEtF;Part des étrangères parmi les femmes;;;NUM;8
+partPopImmi;Part des immigrés dans la population;;;NUM;8
+partPersMajFr;Part des personnes majeures de nationalité française;;;NUM;8
+txEmp;Taux d'emploi;;;NUM;8
+txEmpF;Taux d'emploi des femmes;;;NUM;8
+txEmpH;Taux d'emploi des hommes;;;NUM;8
+txEmpEt;Taux d'emploi des étrangers;;;NUM;8
+txEmp15_24;Taux d'emploi des 15-24 ans;;;NUM;8
+txEmp25_54;Taux d'emploi des 25-54 ans;;;NUM;8
+txEmp55_64;Taux d'emploi des 55-64 ans;;;NUM;8
+partEmpPrec;Part des emplois précaires parmi les emplois;;;NUM;8
+partEmpPrecF;Part des emplois précaires parmi les emplois chez les femmes;;;NUM;8
+partEmpPrecEt;Part des emplois précaires parmi les emplois chez les étrangers;;;NUM;8
+txAct15_24;Taux d'activité des 15-24 ans;;;NUM;8
+txAct25_54;Taux d'activité des 25-54 ans;;;NUM;8
+txAct55_64;Taux d'activité des 55-64 ans;;;NUM;8
+txActF;Taux d'activité des femmes;;;NUM;8
+txActH;Taux d'activité des hommes;;;NUM;8
+partArtCadr;Part d'actifs artisans, commerçants, chefs d'entreprise, cadres et professions intellectuelles supérieures;;;NUM;8
+partPI;Part d'actifs dans des professions intermédiaires;;;NUM;8
+partEmpl;Part d'actifs employés;;;NUM;8
+partOuvr;Part d'actifs ouvriers;;;NUM;8
+partTpsPart;Part de la population occupant un emploi à temps partiel;;;NUM;8
+txChom;Taux de chômage (au sens du recensement);;;NUM;8
+part16_25nonScolNonEmp;Part des 16-25 ans non scolarisés et sans emploi;;;NUM;8
+partVoit;Part de la population utilisant le plus souvent la voiture/camion/fourgonnette pour aller travailler;;;NUM;8
+partTEC;Part de la population utilisant le plus souvent les transports en commun pour aller travailler;;;NUM;8
+partMenVoit;Part de ménages disposant d'une voiture (ou plus);;;NUM;8
+partPopBepCap;Part de la population avec un diplôme de niveau inférieur au BAC;;;NUM;8
+partPopBac;Part de la population avec un diplôme de niveau BAC;;;NUM;8
+partPopBacSup;Part de la population avec un diplôme de niveau BAC+2 ou supérieur;;;NUM;8
+partPopBepCapF;Part de femmes avec un diplôme de niveau inférieur au BAC;;;NUM;8
+partPopBacF;Part de la population avec un diplôme de niveau BAC parmi les femmes;;;NUM;8
+partPopBacSupF;Part de la population avec un diplôme de niveau BAC+2 ou supérieur parmi les femmes;;;NUM;8
+partPopBepCapEt;Part d'étrangers avec un diplôme de niveau inférieur au BAC;;;NUM;8
+partPopBacEt;Part de la population avec un diplôme de niveau BAC parmi les étrangers;;;NUM;8
+partPopBacSupEt;Part de la population avec un diplôme de niveau BAC+2 ou supérieur parmi les étrangers;;;NUM;8
+partPopSansDip;Part de la population sans diplôme;;;NUM;8
+partPopSansDipF;Part de femmes sans diplôme;;;NUM;8
+partPopSansDipEt;Part d'étrangers sans diplôme;;;NUM;8
+txScol15_24;Taux de scolarisation des 15-24 ans;;;NUM;8
+txScol15_24F;Taux de scolarisation des femmes de 15-24 ans;;;NUM;8
+txScol15_24H;Taux de scolarisation des hommes de 15-24 ans;;;NUM;8
+txScol15_24Et;Taux de scolarisation des étrangers de 15-24 ans;;;NUM;8
+partMen1p;Part des ménages d'une personne;;;NUM;8
+partMen2p;Part des ménages de 2 personnes;;;NUM;8
+partMen3p;Part des ménages de 3 personnes;;;NUM;8
+partMen45p;Part des ménages de 4 ou 5 personnes;;;NUM;8
+partMen6pp;Part des ménages de 6 personnes et plus;;;NUM;8
+partMen1p60_74;Part des ménages d'une personne de 60-74 ans;;;NUM;8
+partMen1p75p;Part des ménages d'une personne de 75 ans et plus;;;NUM;8
+partMen1pF;Part des femmes parmi les ménages d'une personne;;;NUM;8
+partMen1pEt;Part des étrangers parmi les ménages d'une personne;;;NUM;8
+partMen1p60_74F;Part des femmes parmi les ménages d'une personne de 60-74 ans;;;NUM;8
+partMen1p75pF;Part des femmes parmi les ménages d'une personne de 75 ans et plus;;;NUM;8
+partMen1p60_74Et;Part des étrangers parmi les ménages d'une personne de 60-74 ans;;;NUM;8
+partMen1p75pEt;Part des étrangers parmi les ménages d'une personne de 75 ans et plus;;;NUM;8
+partMenEt;Part des ménages étrangers;;;NUM;8
+partMen6ppEt;Part des ménages de 6 personnes et plus étrangers;;;NUM;8
+partMenImmi;Part des ménages immigrés;;;NUM;8
+partFamMono;Part des familles monoparentales;;;NUM;8
+partMenProp;Part des ménages propriétaires;;;NUM;8
+partMenLoc;Part des ménages locataires;;;NUM;8
+partMenLogGrat;Part des ménages logés gratuitement;;;NUM;8
+partResPrinc;Part des résidences principales;;;NUM;8
+partResSec;Part des résidences secondaires;;;NUM;8
+partResoccas;Part des logements occasionnels;;;NUM;8
+partResVac;Part des logements vacants;;;NUM;8
+partResPrincApp;Part des résidences principales de type appartement;;;NUM;8
+partResPrincMai;Part des résidences principales de type maison;;;NUM;8
+nbPersResPrinc;Nombre de personnes par résidence principale;;;NUM;8
+partResPrinc1pi;Part des résidences principales d'une pièce;;;NUM;8
+partResPrinc2pi;Part des résidences principales de 2 pièces;;;NUM;8
+partResPrinc3pi;Part des résidences principales de 3 pièces;;;NUM;8
+partResPrinc4pi;Part des résidences principales de 4 pièces;;;NUM;8
+partResPrinc5pi;Part des résidences principales de 5 pièces et plus;;;NUM;8
+partResPrinc30;Part des résidences principales de moins de 30 m²;;;NUM;8
+partResPrinc30_40;Part des résidences principales de 30 à moins de 40 m²;;;NUM;8
+partResPrinc40_60;Part des résidences principales de 40 à moins de 60 m²;;;NUM;8
+partResPrinc60_80;Part des résidences principales de 60 à moins de 80 m²;;;NUM;8
+partResPrinc80_100;Part des résidences principales de 80 à moins de 100 m²;;;NUM;8
+partResPrinc100_120;Part des résidences principales de 100 à moins de 120 m²;;;NUM;8
+partResPrinc120plus;Part des résidences principales de 120 m² ou plus;;;NUM;8
+partResPrincAch19;Part des résidences principales achevées avant 1919;;;NUM;8
+partResPrincAch19_45;Part des résidences principales achevées entre 1919 et 1945;;;NUM;8
+partResPrincAch46_70;Part des résidences principales achevées entre 1946 et 1970;;;NUM;8
+partResPrincAch71_90;Part des résidences principales achevées entre 1971 et 1990;;;NUM;8
+partResPrincAch91_05;Part des résidences principales achevées entre 1991 et 2005;;;NUM;8
+partResPrincAch06_14;Part des résidences principales achevées entre 2006 et 2014;;;NUM;8
+partResPrincEmm2;Part des ménages ayant emménagés depuis moins de 2 ans;;;NUM;8
+partResPrincEmm2_4;Part des ménages ayant emménagés entre 2 et 4 ans;;;NUM;8
+partResPrincEmm5_9;Part des ménages ayant emménagés entre 5 et 9 ans;;;NUM;8
+partResPrincEmm10;Part des ménages ayant emménagés depuis 10 ans ou plus;;;NUM;8
+partResPrincSurocc;Part des résidences principales hors studio de 1 personne suroccupées;;;NUM;8
+partResPrincSurocc2pi;Part des résidences principales de 2 pièces suroccupées;;;NUM;8
+partResPrincSurocc3pi;Part des résidences principales de 3 pièces suroccupées;;;NUM;8
+partResPrincSurocc4pi;Part des résidences principales de 4 pièces suroccupées;;;NUM;8
+partResPrincSurocc5pi;Part des résidences principales de 5 pièces et plus suroccupées;;;NUM;8
+codeGeo;Code de la region;11;Île-de-France;CHAR;3
+codeGeo;Code de la region;24;Centre-Val de Loire;CHAR;3
+codeGeo;Code de la region;27;Bourgogne-Franche-Comté;CHAR;3
+codeGeo;Code de la region;28;Normandie;CHAR;3
+codeGeo;Code de la region;32;Hauts-de-France;CHAR;3
+codeGeo;Code de la region;44;Grand Est;CHAR;3
+codeGeo;Code de la region;52;Pays de la Loire;CHAR;3
+codeGeo;Code de la region;53;Bretagne;CHAR;3
+codeGeo;Code de la region;75;Nouvelle Aquitaine;CHAR;3
+codeGeo;Code de la region;76;Occitanie;CHAR;3
+codeGeo;Code de la region;84;Auvergne-Rhône-Alpes;CHAR;3
+codeGeo;Code de la region;93;Provence-Alpes-Côte d'Azur;CHAR;3
+codeGeo;Code de la region;94;Corse;CHAR;3
+codeGeo;Code de la region;00;France métropolitaine;CHAR;3
+codeGeo;Code de la region;01;Guadeloupe;CHAR;3
+codeGeo;Code de la region;02;Martinique;CHAR;3
+codeGeo;Code de la region;03;Guyane;CHAR;3
+codeGeo;Code de la region;978;Saint-Martin;CHAR;3

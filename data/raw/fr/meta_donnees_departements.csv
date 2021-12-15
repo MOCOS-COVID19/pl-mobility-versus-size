@@ -1,0 +1,219 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+partPop0_14;Part des 0-14 ans dans la population;;;NUM;8
+partPop15_24;Part des 15-24 ans dans la population;;;NUM;8
+partPop25_59;Part des 25-59 ans dans la population;;;NUM;8
+partPop60_74;Part des 60-74 ans dans la population;;;NUM;8
+partPop75p;Part des 75 ans et plus dans la population;;;NUM;8
+indiceJeunesse;Indice de jeunesse;;;NUM;8
+partPopF;Part des femmes dans la population;;;NUM;8
+partPop0_14F;Part des 0-14 ans dans la population des femmes;;;NUM;8
+partPop15_24F;Part des 15-24 ans dans la population des femmes;;;NUM;8
+partPop25_59F;Part des 25-59 ans dans la population des femmes;;;NUM;8
+partPop60_74F;Part des 60-74 ans dans la population des femmes;;;NUM;8
+partPop75pF;Part des 75 ans et plus dans la population des femmes;;;NUM;8
+indiceJeunesseF;Indice de jeunesse des femmes;;;NUM;8
+indiceJeunesseH;Indice de jeunesse des hommes;;;NUM;8
+partPopEt;Part des étrangers dans la population;;;NUM;8
+partPop0_14Et;Part des 0-14 ans dans la population des étrangers;;;NUM;8
+partPop15_24Et;Part des 15-24 ans dans la population des étrangers;;;NUM;8
+partPop25_59Et;Part des 25-59 ans dans la population des étrangers;;;NUM;8
+partPop60_74Et;Part des 60-74 ans dans la population des étrangers;;;NUM;8
+partPop75pEt;Part des 75 ans et plus dans la population des étrangers;;;NUM;8
+indiceJeunesseEt;Indice de jeunesse des étrangers;;;NUM;8
+partPopEtF;Part des étrangères parmi les femmes;;;NUM;8
+partPopImmi;Part des immigrés dans la population;;;NUM;8
+partPersMajFr;Part des personnes majeures de nationalité française;;;NUM;8
+txEmp;Taux d'emploi;;;NUM;8
+txEmpF;Taux d'emploi des femmes;;;NUM;8
+txEmpH;Taux d'emploi des hommes;;;NUM;8
+txEmpEt;Taux d'emploi des étrangers;;;NUM;8
+txEmp15_24;Taux d'emploi des 15-24 ans;;;NUM;8
+txEmp25_54;Taux d'emploi des 25-54 ans;;;NUM;8
+txEmp55_64;Taux d'emploi des 55-64 ans;;;NUM;8
+partEmpPrec;Part des emplois précaires parmi les emplois;;;NUM;8
+partEmpPrecF;Part des emplois précaires parmi les emplois chez les femmes;;;NUM;8
+partEmpPrecEt;Part des emplois précaires parmi les emplois chez les étrangers;;;NUM;8
+txAct15_24;Taux d'activité des 15-24 ans;;;NUM;8
+txAct25_54;Taux d'activité des 25-54 ans;;;NUM;8
+txAct55_64;Taux d'activité des 55-64 ans;;;NUM;8
+txActF;Taux d'activité des femmes;;;NUM;8
+txActH;Taux d'activité des hommes;;;NUM;8
+partArtCadr;Part d'actifs artisans, commerçants, chefs d'entreprise, cadres et professions intellectuelles supérieures;;;NUM;8
+partPI;Part d'actifs dans des professions intermédiaires;;;NUM;8
+partEmpl;Part d'actifs employés;;;NUM;8
+partOuvr;Part d'actifs ouvriers;;;NUM;8
+partTpsPart;Part de la population occupant un emploi à temps partiel;;;NUM;8
+txChom;Taux de chômage (au sens du recensement);;;NUM;8
+part16_25nonScolNonEmp;Part des 16-25 ans non scolarisés et sans emploi;;;NUM;8
+partVoit;Part de la population utilisant le plus souvent la voiture/camion/fourgonnette pour aller travailler;;;NUM;8
+partTEC;Part de la population utilisant le plus souvent les transports en commun pour aller travailler;;;NUM;8
+partMenVoit;Part de ménages disposant d'une voiture (ou plus);;;NUM;8
+partPopBepCap;Part de la population avec un diplôme de niveau inférieur au BAC;;;NUM;8
+partPopBac;Part de la population avec un diplôme de niveau BAC;;;NUM;8
+partPopBacSup;Part de la population avec un diplôme de niveau BAC+2 ou supérieur;;;NUM;8
+partPopBepCapF;Part de femmes avec un diplôme de niveau inférieur au BAC;;;NUM;8
+partPopBacF;Part de la population avec un diplôme de niveau BAC parmi les femmes;;;NUM;8
+partPopBacSupF;Part de la population avec un diplôme de niveau BAC+2 ou supérieur parmi les femmes;;;NUM;8
+partPopBepCapEt;Part d'étrangers avec un diplôme de niveau inférieur au BAC;;;NUM;8
+partPopBacEt;Part de la population avec un diplôme de niveau BAC parmi les étrangers;;;NUM;8
+partPopBacSupEt;Part de la population avec un diplôme de niveau BAC+2 ou supérieur parmi les étrangers;;;NUM;8
+partPopSansDip;Part de la population sans diplôme;;;NUM;8
+partPopSansDipF;Part de femmes sans diplôme;;;NUM;8
+partPopSansDipEt;Part d'étrangers sans diplôme;;;NUM;8
+txScol15_24;Taux de scolarisation des 15-24 ans;;;NUM;8
+txScol15_24F;Taux de scolarisation des femmes de 15-24 ans;;;NUM;8
+txScol15_24H;Taux de scolarisation des hommes de 15-24 ans;;;NUM;8
+txScol15_24Et;Taux de scolarisation des étrangers de 15-24 ans;;;NUM;8
+partMen1p;Part des ménages d'une personne;;;NUM;8
+partMen2p;Part des ménages de 2 personnes;;;NUM;8
+partMen3p;Part des ménages de 3 personnes;;;NUM;8
+partMen45p;Part des ménages de 4 ou 5 personnes;;;NUM;8
+partMen6pp;Part des ménages de 6 personnes et plus;;;NUM;8
+partMen1p60_74;Part des ménages d'une personne de 60-74 ans;;;NUM;8
+partMen1p75p;Part des ménages d'une personne de 75 ans et plus;;;NUM;8
+partMen1pF;Part des femmes parmi les ménages d'une personne;;;NUM;8
+partMen1pEt;Part des étrangers parmi les ménages d'une personne;;;NUM;8
+partMen1p60_74F;Part des femmes parmi les ménages d'une personne de 60-74 ans;;;NUM;8
+partMen1p75pF;Part des femmes parmi les ménages d'une personne de 75 ans et plus;;;NUM;8
+partMen1p60_74Et;Part des étrangers parmi les ménages d'une personne de 60-74 ans;;;NUM;8
+partMen1p75pEt;Part des étrangers parmi les ménages d'une personne de 75 ans et plus;;;NUM;8
+partMenEt;Part des ménages étrangers;;;NUM;8
+partMen6ppEt;Part des ménages de 6 personnes et plus étrangers;;;NUM;8
+partMenImmi;Part des ménages immigrés;;;NUM;8
+partFamMono;Part des familles monoparentales;;;NUM;8
+partMenProp;Part des ménages propriétaires;;;NUM;8
+partMenLoc;Part des ménages locataires;;;NUM;8
+partMenLogGrat;Part des ménages logés gratuitement;;;NUM;8
+partResPrinc;Part des résidences principales;;;NUM;8
+partResSec;Part des résidences secondaires;;;NUM;8
+partResoccas;Part des logements occasionnels;;;NUM;8
+partResVac;Part des logements vacants;;;NUM;8
+partResPrincApp;Part des résidences principales de type appartement;;;NUM;8
+partResPrincMai;Part des résidences principales de type maison;;;NUM;8
+nbPersResPrinc;Nombre de personnes par résidence principale;;;NUM;8
+partResPrinc1pi;Part des résidences principales d'une pièce;;;NUM;8
+partResPrinc2pi;Part des résidences principales de 2 pièces;;;NUM;8
+partResPrinc3pi;Part des résidences principales de 3 pièces;;;NUM;8
+partResPrinc4pi;Part des résidences principales de 4 pièces;;;NUM;8
+partResPrinc5pi;Part des résidences principales de 5 pièces et plus;;;NUM;8
+partResPrinc30;Part des résidences principales de moins de 30 m²;;;NUM;8
+partResPrinc30_40;Part des résidences principales de 30 à moins de 40 m²;;;NUM;8
+partResPrinc40_60;Part des résidences principales de 40 à moins de 60 m²;;;NUM;8
+partResPrinc60_80;Part des résidences principales de 60 à moins de 80 m²;;;NUM;8
+partResPrinc80_100;Part des résidences principales de 80 à moins de 100 m²;;;NUM;8
+partResPrinc100_120;Part des résidences principales de 100 à moins de 120 m²;;;NUM;8
+partResPrinc120plus;Part des résidences principales de 120 m² ou plus;;;NUM;8
+partResPrincAch19;Part des résidences principales achevées avant 1919;;;NUM;8
+partResPrincAch19_45;Part des résidences principales achevées entre 1919 et 1945;;;NUM;8
+partResPrincAch46_70;Part des résidences principales achevées entre 1946 et 1970;;;NUM;8
+partResPrincAch71_90;Part des résidences principales achevées entre 1971 et 1990;;;NUM;8
+partResPrincAch91_05;Part des résidences principales achevées entre 1991 et 2005;;;NUM;8
+partResPrincAch06_14;Part des résidences principales achevées entre 2006 et 2014;;;NUM;8
+partResPrincEmm2;Part des ménages ayant emménagés depuis moins de 2 ans;;;NUM;8
+partResPrincEmm2_4;Part des ménages ayant emménagés entre 2 et 4 ans;;;NUM;8
+partResPrincEmm5_9;Part des ménages ayant emménagés entre 5 et 9 ans;;;NUM;8
+partResPrincEmm10;Part des ménages ayant emménagés depuis 10 ans ou plus;;;NUM;8
+partResPrincSurocc;Part des résidences principales hors studio de 1 personne suroccupées;;;NUM;8
+partResPrincSurocc2pi;Part des résidences principales de 2 pièces suroccupées;;;NUM;8
+partResPrincSurocc3pi;Part des résidences principales de 3 pièces suroccupées;;;NUM;8
+partResPrincSurocc4pi;Part des résidences principales de 4 pièces suroccupées;;;NUM;8
+partResPrincSurocc5pi;Part des résidences principales de 5 pièces et plus suroccupées;;;NUM;8
+codeGeo;Code du département;01;Ain;CHAR;3
+codeGeo;Code du département;02;Aisne;CHAR;3
+codeGeo;Code du département;03;Allier;CHAR;3
+codeGeo;Code du département;04;Alpes-de-Haute-Provence;CHAR;3
+codeGeo;Code du département;05;Hautes-Alpes;CHAR;3
+codeGeo;Code du département;06;Alpes-Maritimes;CHAR;3
+codeGeo;Code du département;07;Ardèche;CHAR;3
+codeGeo;Code du département;08;Ardennes;CHAR;3
+codeGeo;Code du département;09;Ariège;CHAR;3
+codeGeo;Code du département;10;Aube;CHAR;3
+codeGeo;Code du département;11;Aude;CHAR;3
+codeGeo;Code du département;12;Aveyron;CHAR;3
+codeGeo;Code du département;13;Bouches-du-Rhône;CHAR;3
+codeGeo;Code du département;14;Calvados;CHAR;3
+codeGeo;Code du département;15;Cantal;CHAR;3
+codeGeo;Code du département;16;Charente;CHAR;3
+codeGeo;Code du département;17;Charente-Maritime;CHAR;3
+codeGeo;Code du département;18;Cher;CHAR;3
+codeGeo;Code du département;19;Corrèze;CHAR;3
+codeGeo;Code du département;21;Côte-d'Or;CHAR;3
+codeGeo;Code du département;22;Côtes-d'Armor;CHAR;3
+codeGeo;Code du département;23;Creuse;CHAR;3
+codeGeo;Code du département;24;Dordogne;CHAR;3
+codeGeo;Code du département;25;Doubs;CHAR;3
+codeGeo;Code du département;26;Drôme;CHAR;3
+codeGeo;Code du département;27;Eure;CHAR;3
+codeGeo;Code du département;28;Eure-et-Loir;CHAR;3
+codeGeo;Code du département;29;Finistère;CHAR;3
+codeGeo;Code du département;2A;Corse-du-Sud;CHAR;3
+codeGeo;Code du département;2B;Haute-Corse;CHAR;3
+codeGeo;Code du département;30;Gard;CHAR;3
+codeGeo;Code du département;31;Haute-Garonne;CHAR;3
+codeGeo;Code du département;32;Gers;CHAR;3
+codeGeo;Code du département;33;Gironde;CHAR;3
+codeGeo;Code du département;34;Hérault;CHAR;3
+codeGeo;Code du département;35;Ille-et-Vilaine;CHAR;3
+codeGeo;Code du département;36;Indre;CHAR;3
+codeGeo;Code du département;37;Indre-et-Loire;CHAR;3
+codeGeo;Code du département;38;Isère;CHAR;3
+codeGeo;Code du département;39;Jura;CHAR;3
+codeGeo;Code du département;40;Landes;CHAR;3
+codeGeo;Code du département;41;Loir-et-Cher;CHAR;3
+codeGeo;Code du département;42;Loire;CHAR;3
+codeGeo;Code du département;43;Haute-Loire;CHAR;3
+codeGeo;Code du département;44;Loire-Atlantique;CHAR;3
+codeGeo;Code du département;45;Loiret;CHAR;3
+codeGeo;Code du département;46;Lot;CHAR;3
+codeGeo;Code du département;47;Lot-et-Garonne;CHAR;3
+codeGeo;Code du département;49;Maine-et-Loire;CHAR;3
+codeGeo;Code du département;50;Manche;CHAR;3
+codeGeo;Code du département;51;Marne;CHAR;3
+codeGeo;Code du département;52;Haute-Marne;CHAR;3
+codeGeo;Code du département;53;Mayenne;CHAR;3
+codeGeo;Code du département;54;Meurthe-et-Moselle;CHAR;3
+codeGeo;Code du département;55;Meuse;CHAR;3
+codeGeo;Code du département;56;Morbihan;CHAR;3
+codeGeo;Code du département;57;Moselle;CHAR;3
+codeGeo;Code du département;58;Nièvre;CHAR;3
+codeGeo;Code du département;59;Nord;CHAR;3
+codeGeo;Code du département;60;Oise;CHAR;3
+codeGeo;Code du département;61;Orne;CHAR;3
+codeGeo;Code du département;62;Pas-de-Calais;CHAR;3
+codeGeo;Code du département;63;Puy-de-Dôme;CHAR;3
+codeGeo;Code du département;64;Pyrénées-Atlantiques;CHAR;3
+codeGeo;Code du département;65;Hautes-Pyrénées;CHAR;3
+codeGeo;Code du département;66;Pyrénées-Orientales;CHAR;3
+codeGeo;Code du département;67;Bas-Rhin;CHAR;3
+codeGeo;Code du département;68;Haut-Rhin;CHAR;3
+codeGeo;Code du département;69;Rhône;CHAR;3
+codeGeo;Code du département;70;Haute-Saône;CHAR;3
+codeGeo;Code du département;71;Saône-et-Loire;CHAR;3
+codeGeo;Code du département;72;Sarthe;CHAR;3
+codeGeo;Code du département;73;Savoie;CHAR;3
+codeGeo;Code du département;74;Haute-Savoie;CHAR;3
+codeGeo;Code du département;75;Paris;CHAR;3
+codeGeo;Code du département;76;Seine-Maritime;CHAR;3
+codeGeo;Code du département;77;Seine-et-Marne;CHAR;3
+codeGeo;Code du département;78;Yvelines;CHAR;3
+codeGeo;Code du département;79;Deux-Sèvres;CHAR;3
+codeGeo;Code du département;80;Somme;CHAR;3
+codeGeo;Code du département;81;Tarn;CHAR;3
+codeGeo;Code du département;82;Tarn-et-Garonne;CHAR;3
+codeGeo;Code du département;83;Var;CHAR;3
+codeGeo;Code du département;84;Vaucluse;CHAR;3
+codeGeo;Code du département;85;Vendée;CHAR;3
+codeGeo;Code du département;86;Vienne;CHAR;3
+codeGeo;Code du département;87;Haute-Vienne;CHAR;3
+codeGeo;Code du département;88;Vosges;CHAR;3
+codeGeo;Code du département;89;Yonne;CHAR;3
+codeGeo;Code du département;90;Territoire de Belfort;CHAR;3
+codeGeo;Code du département;91;Essonne;CHAR;3
+codeGeo;Code du département;92;Hauts-de-Seine;CHAR;3
+codeGeo;Code du département;93;Seine-Saint-Denis;CHAR;3
+codeGeo;Code du département;94;Val-de-Marne;CHAR;3
+codeGeo;Code du département;95;Val-d'Oise;CHAR;3
+codeGeo;Code du département;971;Guadeloupe;CHAR;3
+codeGeo;Code du département;972;Martinique;CHAR;3
+codeGeo;Code du département;973;Guyane;CHAR;3
+codeGeo;Code du département;978;Saint-Martin;CHAR;3

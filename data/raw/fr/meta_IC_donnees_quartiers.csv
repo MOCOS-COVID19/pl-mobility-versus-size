@@ -1,0 +1,1473 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+partPop0_14;Part des 0-14 ans dans la population;;;CHAR;11
+partPop15_24;Part des 15-24 ans dans la population;;;CHAR;11
+partPop25_59;Part des 25-59 ans dans la population;;;CHAR;11
+partPop60_74;Part des 60-74 ans dans la population;;;CHAR;11
+partPop75p;Part des 75 ans et plus dans la population;;;CHAR;11
+indiceJeunesse;Indice de jeunesse;;;CHAR;11
+partPopF;Part des femmes dans la population;;;CHAR;11
+partPop0_14F;Part des 0-14 ans dans la population des femmes;;;CHAR;11
+partPop15_24F;Part des 15-24 ans dans la population des femmes;;;CHAR;11
+partPop25_59F;Part des 25-59 ans dans la population des femmes;;;CHAR;11
+partPop60_74F;Part des 60-74 ans dans la population des femmes;;;CHAR;11
+partPop75pF;Part des 75 ans et plus dans la population des femmes;;;CHAR;11
+indiceJeunesseF;Indice de jeunesse des femmes;;;CHAR;11
+indiceJeunesseH;Indice de jeunesse des hommes;;;CHAR;11
+partPopEt;Part des étrangers dans la population;;;CHAR;11
+partPop0_14Et;Part des 0-14 ans dans la population des étrangers;;;CHAR;11
+partPop15_24Et;Part des 15-24 ans dans la population des étrangers;;;CHAR;11
+partPop25_59Et;Part des 25-59 ans dans la population des étrangers;;;CHAR;11
+partPop60_74Et;Part des 60-74 ans dans la population des étrangers;;;CHAR;11
+partPop75pEt;Part des 75 ans et plus dans la population des étrangers;;;CHAR;11
+indiceJeunesseEt;Indice de jeunesse des étrangers;;;CHAR;11
+partPopEtF;Part des étrangères parmi les femmes;;;CHAR;11
+partPopImmi;Part des immigrés dans la population;;;CHAR;11
+partPersMajFr;Part des personnes majeures de nationalité française;;;CHAR;11
+txEmp;Taux d'emploi;;;CHAR;11
+txEmpF;Taux d'emploi des femmes;;;CHAR;11
+txEmpH;Taux d'emploi des hommes;;;CHAR;11
+txEmpEt;Taux d'emploi des étrangers;;;CHAR;11
+txEmp15_24;Taux d'emploi des 15-24 ans;;;CHAR;11
+txEmp25_54;Taux d'emploi des 25-54 ans;;;CHAR;11
+txEmp55_64;Taux d'emploi des 55-64 ans;;;CHAR;11
+partEmpPrec;Part des emplois précaires parmi les emplois;;;CHAR;11
+partEmpPrecF;Part des emplois précaires parmi les emplois chez les femmes;;;CHAR;11
+partEmpPrecEt;Part des emplois précaires parmi les emplois chez les étrangers;;;CHAR;11
+txAct15_24;Taux d'activité des 15-24 ans;;;CHAR;11
+txAct25_54;Taux d'activité des 25-54 ans;;;CHAR;11
+txAct55_64;Taux d'activité des 55-64 ans;;;CHAR;11
+txActF;Taux d'activité des femmes;;;CHAR;11
+txActH;Taux d'activité des hommes;;;CHAR;11
+partArtCadr;Part d'actifs artisans, commerçants, chefs d'entreprise, cadres et professions intellectuelles supérieures;;;CHAR;11
+partPI;Part d'actifs dans des professions intermédiaires;;;CHAR;11
+partEmpl;Part d'actifs employés;;;CHAR;11
+partOuvr;Part d'actifs ouvriers;;;CHAR;11
+partTpsPart;Part de la population occupant un emploi à temps partiel;;;CHAR;11
+txChom;Taux de chômage (au sens du recensement);;;CHAR;11
+part16_25nonScolNonEmp;Part des 16-25 ans non scolarisés et sans emploi;;;CHAR;11
+partVoit;Part de la population utilisant le plus souvent la voiture/camion/fourgonnette pour aller travailler;;;CHAR;11
+partTEC;Part de la population utilisant le plus souvent les transports en commun pour aller travailler;;;CHAR;11
+partMenVoit;Part de ménages disposant d'une voiture (ou plus);;;CHAR;11
+partPopBepCap;Part de la population avec un diplôme de niveau inférieur au BAC;;;CHAR;11
+partPopBac;Part de la population avec un diplôme de niveau BAC;;;CHAR;11
+partPopBacSup;Part de la population avec un diplôme de niveau BAC+2 ou supérieur;;;CHAR;11
+partPopBepCapF;Part de femmes avec un diplôme de niveau inférieur au BAC;;;CHAR;11
+partPopBacF;Part de la population avec un diplôme de niveau BAC parmi les femmes;;;CHAR;11
+partPopBacSupF;Part de la population avec un diplôme de niveau BAC+2 ou supérieur parmi les femmes;;;CHAR;11
+partPopBepCapEt;Part d'étrangers avec un diplôme de niveau inférieur au BAC;;;CHAR;11
+partPopBacEt;Part de la population avec un diplôme de niveau BAC parmi les étrangers;;;CHAR;11
+partPopBacSupEt;Part de la population avec un diplôme de niveau BAC+2 ou supérieur parmi les étrangers;;;CHAR;11
+partPopSansDip;Part de la population sans diplôme;;;CHAR;11
+partPopSansDipF;Part de femmes sans diplôme;;;CHAR;11
+partPopSansDipEt;Part d'étrangers sans diplôme;;;CHAR;11
+txScol15_24;Taux de scolarisation des 15-24 ans;;;CHAR;11
+txScol15_24F;Taux de scolarisation des femmes de 15-24 ans;;;CHAR;11
+txScol15_24H;Taux de scolarisation des hommes de 15-24 ans;;;CHAR;11
+txScol15_24Et;Taux de scolarisation des étrangers de 15-24 ans;;;CHAR;11
+partMen1p;Part des ménages d'une personne;;;CHAR;11
+partMen2p;Part des ménages de 2 personnes;;;CHAR;11
+partMen3p;Part des ménages de 3 personnes;;;CHAR;11
+partMen45p;Part des ménages de 4 ou 5 personnes;;;CHAR;11
+partMen6pp;Part des ménages de 6 personnes et plus;;;CHAR;11
+partMen1p60_74;Part des ménages d'une personne de 60-74 ans;;;CHAR;11
+partMen1p75p;Part des ménages d'une personne de 75 ans et plus;;;CHAR;11
+partMen1pF;Part des femmes parmi les ménages d'une personne;;;CHAR;11
+partMen1pEt;Part des étrangers parmi les ménages d'une personne;;;CHAR;11
+partMen1p60_74F;Part des femmes parmi les ménages d'une personne de 60-74 ans;;;CHAR;11
+partMen1p75pF;Part des femmes parmi les ménages d'une personne de 75 ans et plus;;;CHAR;11
+partMen1p60_74Et;Part des étrangers parmi les ménages d'une personne de 60-74 ans;;;CHAR;11
+partMen1p75pEt;Part des étrangers parmi les ménages d'une personne de 75 ans et plus;;;CHAR;11
+partMenEt;Part des ménages étrangers;;;CHAR;11
+partMen6ppEt;Part des ménages de 6 personnes et plus étrangers;;;CHAR;11
+partMenImmi;Part des ménages immigrés;;;CHAR;11
+partFamMono;Part des familles monoparentales;;;CHAR;11
+partMenProp;Part des ménages propriétaires;;;CHAR;11
+partMenLoc;Part des ménages locataires;;;CHAR;11
+partMenLogGrat;Part des ménages logés gratuitement;;;CHAR;11
+partResPrinc;Part des résidences principales;;;CHAR;11
+partResSec;Part des résidences secondaires;;;CHAR;11
+partResoccas;Part des logements occasionnels;;;CHAR;11
+partResVac;Part des logements vacants;;;CHAR;11
+partResPrincApp;Part des résidences principales de type appartement;;;CHAR;11
+partResPrincMai;Part des résidences principales de type maison;;;CHAR;11
+nbPersResPrinc;Nombre de personnes par résidence principale;;;CHAR;11
+partResPrinc1pi;Part des résidences principales d'une pièce;;;CHAR;11
+partResPrinc2pi;Part des résidences principales de 2 pièces;;;CHAR;11
+partResPrinc3pi;Part des résidences principales de 3 pièces;;;CHAR;11
+partResPrinc4pi;Part des résidences principales de 4 pièces;;;CHAR;11
+partResPrinc5pi;Part des résidences principales de 5 pièces et plus;;;CHAR;11
+partResPrinc30;Part des résidences principales de moins de 30 m²;;;CHAR;11
+partResPrinc30_40;Part des résidences principales de 30 à moins de 40 m²;;;CHAR;11
+partResPrinc40_60;Part des résidences principales de 40 à moins de 60 m²;;;CHAR;11
+partResPrinc60_80;Part des résidences principales de 60 à moins de 80 m²;;;CHAR;11
+partResPrinc80_100;Part des résidences principales de 80 à moins de 100 m²;;;CHAR;11
+partResPrinc100_120;Part des résidences principales de 100 à moins de 120 m²;;;CHAR;11
+partResPrinc120plus;Part des résidences principales de 120 m² ou plus;;;CHAR;11
+partResPrincAch19;Part des résidences principales achevées avant 1919;;;CHAR;11
+partResPrincAch19_45;Part des résidences principales achevées entre 1919 et 1945;;;CHAR;11
+partResPrincAch46_70;Part des résidences principales achevées entre 1946 et 1970;;;CHAR;11
+partResPrincAch71_90;Part des résidences principales achevées entre 1971 et 1990;;;CHAR;11
+partResPrincAch91_05;Part des résidences principales achevées entre 1991 et 2005;;;CHAR;11
+partResPrincAch06_14;Part des résidences principales achevées entre 2006 et 2014;;;CHAR;11
+partResPrincEmm2;Part des ménages ayant emménagés depuis moins de 2 ans;;;CHAR;11
+partResPrincEmm2_4;Part des ménages ayant emménagés entre 2 et 4 ans;;;CHAR;11
+partResPrincEmm5_9;Part des ménages ayant emménagés entre 5 et 9 ans;;;CHAR;11
+partResPrincEmm10;Part des ménages ayant emménagés depuis 10 ans ou plus;;;CHAR;11
+partResPrincSurocc;Part des résidences principales hors studio de 1 personne suroccupées;;;CHAR;11
+partResPrincSurocc2pi;Part des résidences principales de 2 pièces suroccupées;;;CHAR;11
+partResPrincSurocc3pi;Part des résidences principales de 3 pièces suroccupées;;;CHAR;11
+partResPrincSurocc4pi;Part des résidences principales de 4 pièces suroccupées;;;CHAR;11
+partResPrincSurocc5pi;Part des résidences principales de 5 pièces et plus suroccupées;;;CHAR;11
+codeGeo;Code du quartier prioritaire;QP001001;Grande Reyssouze Terre Des Fleurs;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001002;Croix Blanche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001003;Quartier Jacques Prévert;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001004;Levant - Tattes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001005;Les Courbes De L'Albarine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001006;La Plaine - La Forge;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001007;Pré Des Saules;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001008;Brillat - Savarin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP001009;Maladière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002001;Europe;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002002;Faubourg D'Isle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002003;Neuville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002004;Vermandois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002005;Champ Roland Et Bords De L'Oise;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002006;Gare Et Verrière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002007;Quartier De L'Artilleur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002008;Roosevelt Rebequet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002009;Quartier De La Résidence;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002010;Montreuil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002011;Champagne Moulin - Roux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002012;Saint-Crépin Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002013;Presles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002014;Chevreux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002015;Route De Vivières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002016;Blanchard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP002017;Vaucrises;CHAR;8
+codeGeo;Code du quartier prioritaire;QP003001;Coeur D'Agglo;CHAR;8
+codeGeo;Code du quartier prioritaire;QP003002;Les Ailes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP003003;Moulins-Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP003004;Rive Gauche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP003005;Fontbouillant;CHAR;8
+codeGeo;Code du quartier prioritaire;QP003006;Bien-Assis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP004001;Centre Ville - Pigeonnier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP004002;Centre Ville - Saint-Lazare;CHAR;8
+codeGeo;Code du quartier prioritaire;QP004003;Arc Serrets - Plantiers - Aliziers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP005001;Haut - Gap;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006001;Las Planas;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006002;Coeur De Ville - Hauts De Vallauris;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006003;Ranguin-Frayère;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006004;Genêts - Oliviers - Saint-Pierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006005;Grand Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006006;Les Fleurs De Grasse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006007;La Condamine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006008;Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006009;Résidence Sociale Nicéa;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006010;Les Moulins - Le Point Du Jour;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006011;Les Sagnes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006012;Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006013;Paillon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006014;Ariane - Le Manoir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006015;Palais Des Expositions;CHAR;8
+codeGeo;Code du quartier prioritaire;QP006016;Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP007001;Le Contrat Ville Des Quartiers D'Avenir D'Aubenas;CHAR;8
+codeGeo;Code du quartier prioritaire;QP007002;Coeur De Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP007003;Sud Avenir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP007004;Les Hauts De Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP007005;Nouvel Horizon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008001;Manchester;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008002;Ronde Couture;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008003;La Houillère;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008004;La Couronne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008005;Torcy Cités;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008006;Torcy Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008007;Le Lac - Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP008008;Coeur De Vie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP009001;Coeur De Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP009002;Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP009003;Centre Ancien - La Gloriette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010001;Gare;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010002;Bords De Seine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010003;Chantereigne Montvilliers Beau-Toquat;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010004;Debussy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010005;Maugout;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010006;Chartreux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010007;Jules Guesde;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010008;Sénardes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010009;Point Du Jour;CHAR;8
+codeGeo;Code du quartier prioritaire;QP010010;Quartier Des Lumières - Alfred Boucher;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011001;Quartier Aude;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011002;La Conte - Ozanam;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011003;Le Viguier - Saint-Jacques;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011004;Bastide Pont-Vieux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011005;Fleming La Reille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011006;Grazailles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011007;Narbonne Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011008;Narbonne Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011009;Narbonne Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP011010;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP012001;Quatre Saisons;CHAR;8
+codeGeo;Code du quartier prioritaire;QP012002;La Bastide;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013001;Florida Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013002;Quartier Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013003;Saint Henri;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013004;Notre-Dame;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013005;La Viste;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013006;Roquecoquille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013007;La Gavotte - Peyret;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013008;Château Saint Loup;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013009;La Capelette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013010;Griffeuille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013011;Barriol;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013012;Le Trébon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013013;Centre Historique - Ferrages;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013014;Jas-De-Bouffan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013015;Beisson;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013016;Encagnane;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013017;Corsy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013018;Secteur Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013019;La Frescoule;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013020;Le Charrel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013021;Mas de Pouane;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013022;Notre Dame Des Marins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013023;Canto Perdrix;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013024;Les Aigues Douces;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013025;Les Comtes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013026;Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013027;Centre Historique;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013028;Quartier Béalet-Bessons-Mariélie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013029;Les Canourgues;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013030;La Monaque;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013031;Centre ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013032;Centre Ville Canet Arnavaux Jean Jaurès;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013033;La Cravache Le Trioulet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013034;La Cayolle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013035;La Sauvagère;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013036;Benza;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013037;Saint Thys;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013038;Air Bel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013039;La Rouguière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013040;Valbarelle Néréïdes Bosquet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013041;Les Escourtines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013042;Malpassé Corot;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013043;Balustres Cerisaie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013044;Frais Vallon Le Clos La Rose;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013045;Le Petit Séminaire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013046;La Marie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013047;Les Olives;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013048;La Simiane La Paternelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013049;Bon Secours Les Rosiers Marine Bleue Grand Saint Barthélémy Saint Jérôme;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013050;Le Castellas Les Micocouliers Saint Joseph;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013051;La Castellane La Bricarde Plan D'Aou Saint Antoine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013052;Consolat Ruisseau Mirabeau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013053;La Calade Campagne Lévèque;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013054;Les Aygalades;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013055;Kalliste La Granière La Solidarité;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013056;La Savine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013057;Les Tilleuls La Maurelette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013058;La Cabucelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013059;La Visitation - Bassens;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013060;Saint André;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013061;Le Prépaou;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013062;La Carraire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013063;La Maille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013064;La Soude Bengale;CHAR;8
+codeGeo;Code du quartier prioritaire;QP013065;Caillols La Moularde;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014001;Chemin Vert;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014002;Grâce De Dieu;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014003;Guérinière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014004;Pierre Heuzé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014005;Calvaire Saint Pierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014006;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014007;Grande Delle - Val - Belles Portes - Grand Parc - Haute Folie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014008;Canteloup - Marronniers - Honfleur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP014009;Hauteville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP015001;Aurillac Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP016001;Basseau - Grande Garenne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP016002;Ma Campagne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP016003;Bel Air - La Grand Font;CHAR;8
+codeGeo;Code du quartier prioritaire;QP016004;L'Etang Des Moines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP016005;Champ De Manoeuvre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP016006;Crouin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP017001;Mireuil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP017002;Villeneuve-Les-Salines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP017003;Bellevue - Boiffiers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP017004;Centre Ville - Avant-Garde;CHAR;8
+codeGeo;Code du quartier prioritaire;QP017005;Le Petit Marseille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP017006;Eco quartier l'Yeuse-La Robinière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP017007;Port-Neuf;CHAR;8
+codeGeo;Code du quartier prioritaire;QP018001;Bourges Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP018002;Val D'Auron - Bourges;CHAR;8
+codeGeo;Code du quartier prioritaire;QP018003;Le Vernet - Saint Amand Montrond;CHAR;8
+codeGeo;Code du quartier prioritaire;QP018004;Clos Du Roy - Centre Ville - Vierzon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP019001;Rivet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP019002;Tujac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP019003;Les Chapélies;CHAR;8
+codeGeo;Code du quartier prioritaire;QP021001;Saint Jacques;CHAR;8
+codeGeo;Code du quartier prioritaire;QP021002;Le Mail;CHAR;8
+codeGeo;Code du quartier prioritaire;QP021003;Fontaine D'Ouche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP021004;Les Grésilles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP021005;Le Bief Du Moulin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP021006;Le Belvédère;CHAR;8
+codeGeo;Code du quartier prioritaire;QP022001;Ar Santé - Les Fontaines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP022002;Ker Uhel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP022003;Iroise;CHAR;8
+codeGeo;Code du quartier prioritaire;QP022004;Croix Saint-Lambert - Ville Oger;CHAR;8
+codeGeo;Code du quartier prioritaire;QP022005;Le Plateau - Europe - Balzac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP022006;Point Du Jour;CHAR;8
+codeGeo;Code du quartier prioritaire;QP022007;La Fontaine Des Eaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP023001;L'Albatros;CHAR;8
+codeGeo;Code du quartier prioritaire;QP024001;Rive Gauche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP024002;Quartier Des Deux Rives;CHAR;8
+codeGeo;Code du quartier prioritaire;QP024003;Quartier Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP024004;Chamiers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP024005;La Boucle De L'Isle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025001;Le Grand Longs Traits;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025002;Grette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025003;Orchamps - Palente;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025004;Planoise;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025005;Montrapon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025006;Clairs Soleils;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025007;Les Champs Montants;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025008;Champvallon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025009;Les Fougères;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025010;Chiffogne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025011;Petite Hollande;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025012;Les Evoironnes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP025013;Les Buis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026001;Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026002;Quartiers Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026003;Nocaze;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026004;Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026005;Quartier Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026006;Polygone;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026007;Les Hauts De Valence;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026008;Valensoles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026009;Chamberlière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026010;Le Roc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026011;Coeur De Loriol;CHAR;8
+codeGeo;Code du quartier prioritaire;QP026012;Clairval;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027001;Valmeux - Blanchères;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027002;Boutardes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027003;La Madeleine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027004;Nétreville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027005;Navarre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027006;Maison-Rouge;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027007;Acacias - La Londe - Les Oiseaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027008;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027009;Le Bourg Le Comte;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027010;L'Europe;CHAR;8
+codeGeo;Code du quartier prioritaire;QP027011;La Passerelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028001;Les Vauvettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028002;Quartier Des Clos;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028003;Vieux Puits;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028004;Bruxelles - Arcades - Béguines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028005;Tallemont - Bretagne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028006;Les Bâtes Tabellionne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028007;Les Rochelles - Barthou;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028008;Dunant - Kennedy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028009;Camus - Schweitzer;CHAR;8
+codeGeo;Code du quartier prioritaire;QP028010;Le Val;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029001;Kerandon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029002;Kermoysan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029003;Kerourien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029004;Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029005;Keredern;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029006;Lambezellec Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029007;Pontanezen;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029008;Queliverzan Pontaniou;CHAR;8
+codeGeo;Code du quartier prioritaire;QP029009;Kerangoff Loti;CHAR;8
+codeGeo;Code du quartier prioritaire;QP02A001;Pifano;CHAR;8
+codeGeo;Code du quartier prioritaire;QP02A002;Salines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP02A003;Les Jardins De l'Empereur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP02B001;Quartier Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP02B002;Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030001;Près Saint Jean - Cévennes - Tamaris - Cauvel-la Royale - Rochebelle - Centre ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030002;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030003;Pissevin - Valdegour;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030004;Gambetta-Richelieu;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030005;Chemin-Bas D'Avignon - Clos D'Orville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030006;Mas De Mingue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030007;Route De Beaucaire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030008;Némausus-Jonquilles - Haute Magaille - Oliviers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030009;Sabatot - Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030010;Escanaux - Coronelle - Citadelle - Vigan Braquet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030011;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030012;La Moulinelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030013;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030014;L'Ecusson;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030015;Les Costières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030016;Centre Ville - Arboux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030017;Trescol - La Levade;CHAR;8
+codeGeo;Code du quartier prioritaire;QP030018;Quartier Prioritaire D'Uzès;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031001;Saint Jean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031002;Centre Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031003;Coeur De Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031004;Barradels;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031005;Val D'Aran - Poitou - Pyrénées;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031006;Pradettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031007;Grand Mirail;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031008;Arènes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031009;Bourbaki;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031010;Empalot;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031011;Les Izards - La Vache;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031012;Cépière Beauregard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031013;Saint Exupéry;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031014;Soupetard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031015;Rangueil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031016;En Jacca;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031017;Vivier Maçon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031018;Négreneys;CHAR;8
+codeGeo;Code du quartier prioritaire;QP031019;La Gloire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP032001;Grand Garros;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033001;Quartier Champ De Course;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033002;Yser - Pont De Madame;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033003;Quartier Du centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033004;Quartier Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033005;Quartier De L'Avenir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033006;Carle Vernet -Terres Neuves;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033007;Le Lac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033008;Saint-Michel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033009;Benauge - Henri Sellier - Léo Lagrange;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033010;Grand-Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033011;Bacalan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033012;Palmer - Saraillère - 8 Mai 45 - Dravemont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033013;Grand Caillou;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033014;Jean-Jaurès;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033015;Barthez;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033016;Carriet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033017;Génicart Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033018;Alpilles-Vincennes-Bois Fleuri;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033019;Beaudésert;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033020;Châtaigneraie - Arago;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033021;Saige;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033022;Thouars;CHAR;8
+codeGeo;Code du quartier prioritaire;QP033023;Paty Monmousseau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034001;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034002;Iranget Grangette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034003;Devèze;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034004;Celleneuve;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034005;Mosson;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034006;Petit Bard Pergola;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034007;Pas Du Loup - Val De Croze;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034008;Cévennes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034009;Gély;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034010;Figuerolles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034011;Lemasson;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034012;Près D'Arènes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034013;Pompignane;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034014;Aiguelongue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034015;Vert-Bois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034016;Les Deux Pins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034017;Ile De Thau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034018;Centre Ville - Ile Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034019;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034020;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034021;Centre Et Périphérie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP034022;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP035001;La Découverte;CHAR;8
+codeGeo;Code du quartier prioritaire;QP035002;Villejean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP035003;Les Clôteaux - Champs Manceaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP035004;Maurepas;CHAR;8
+codeGeo;Code du quartier prioritaire;QP035005;Le Blosne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP035006;Cleunay;CHAR;8
+codeGeo;Code du quartier prioritaire;QP035007;Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP036001;Beaulieu;CHAR;8
+codeGeo;Code du quartier prioritaire;QP036002;Saint Jean - Saint Jacques;CHAR;8
+codeGeo;Code du quartier prioritaire;QP036003;Vaugirard - Saint Christophe;CHAR;8
+codeGeo;Code du quartier prioritaire;QP036004;Nation Bernardines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037001;La Verrerie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037002;Rabière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037003;Niqueux Bruère - Marcel Pagnol;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037004;Rabaterie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037005;Fontaines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037006;Rochepinard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037007;Rives Du Cher;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037008;Europe;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037009;Sanitas;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037010;Maryse Bastié;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037011;Bords De Loire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP037012;Patte D'Oie - Malétrenne - Plaisance;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038001;La Luire - Viscose;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038002;Champaret;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038003;Essarts - Surieux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038004;Village Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038005;Alpes Mail Cachin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038006;Mistral Lys Rouge Camine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038007;Villeneuve - Village Olympique;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038008;Teisseire Abbaye Jouhaux Châtelet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038009;Alma - Très Cloîtres - Chenoise;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038010;Iles De Mars Olympiades;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038011;Renaudie - Champberton - La Plaine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038012;Brunetière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038013;Champfleuri;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038014;Saint Hubert;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038015;Saint Bonnet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038016;Les Roches;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038017;La Plaine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038018;Vieux Péages - Les Ayencins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038019;Route De Sablons;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038020;Belmont Moulin Villette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038021;Barbières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038022;Plan Des Aures;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038023;Estressin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038024;Vallée De Gère;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038025;Les Genêts Cancane Charlemagne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP038026;Malissol;CHAR;8
+codeGeo;Code du quartier prioritaire;QP039001;Mesnils Pasteur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP039002;Marjorie - Les Mouillères;CHAR;8
+codeGeo;Code du quartier prioritaire;QP039003;Les Avignonnets;CHAR;8
+codeGeo;Code du quartier prioritaire;QP039004;Chabot - Le Miroir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP040001;Le Sablar;CHAR;8
+codeGeo;Code du quartier prioritaire;QP040002;Cuyès;CHAR;8
+codeGeo;Code du quartier prioritaire;QP040003;Le Gond;CHAR;8
+codeGeo;Code du quartier prioritaire;QP040004;Le Peyrouat;CHAR;8
+codeGeo;Code du quartier prioritaire;QP040005;La Moustey;CHAR;8
+codeGeo;Code du quartier prioritaire;QP041001;Kennedy - Coty - Croix Chevallier - Sarrazines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP041002;Les Rottes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP041003;Les Favignolles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042001;Beauregard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042002;La Chapelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042003;La Romière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042004;Montrambert Méline;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042005;Le Dorlay - Les Pins - La Bachasse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042006;Montcel - Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042007;Grand Pont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042008;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042009;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042010;St Julien - Crêt De L'Oeillet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042011;Cotonne Montferré;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042012;Tarentaize Beaubrun;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042013;Montreynaud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042014;Crêt De Roc - Soleil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042015;Quartiers Sud-Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042016;Terrenoire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042017;Bourgogne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042018;Le Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP042019;Mayollet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP043001;Val Vert;CHAR;8
+codeGeo;Code du quartier prioritaire;QP043002;Guitard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044001;Ville Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044002;Petit Caporal;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044003;Robespierre - Prézégat;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044004;La Ville Aux Roses;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044005;Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044006;Les Dervallières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044007;Le Breil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044008;Bout Des Landes - Bout Des Pavés - Chêne Des anglais;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044009;La Boissière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044010;Port Boyer;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044011;Le Clos Toreau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044012;Le Ranzay;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044013;Malakoff;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044014;Bottière Pin Sec;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044015;La Halvêque;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044016;La Petite Sensive;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044017;Plaisance;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044018;Château;CHAR;8
+codeGeo;Code du quartier prioritaire;QP044019;Le Sillon De Bretagne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045001;Les Chaises;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045002;Vésine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045003;Le Plateau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045004;La Chaussée;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045005;Le Bourg - Chautemps;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045006;Le Clos De La Grande Salle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045007;Andrillons Ormes Du mail;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045008;Lignerolles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045009;Dauphine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045010;La Source;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045011;Argonne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045012;Blossières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045013;Pont Bordeaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045014;Les 3 Fontaines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045015;Le Hameau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045016;Champ De La Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045017;Montoire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045018;Quartiers Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP045019;Saint Aignan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP046001;Terre Rouge;CHAR;8
+codeGeo;Code du quartier prioritaire;QP047001;Rodrigues - Barleté;CHAR;8
+codeGeo;Code du quartier prioritaire;QP047002;Montanou;CHAR;8
+codeGeo;Code du quartier prioritaire;QP047003;Pin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP047004;Bastide Au Bord Du Lot;CHAR;8
+codeGeo;Code du quartier prioritaire;QP047005;Bastide;CHAR;8
+codeGeo;Code du quartier prioritaire;QP047006;Baylac Gravette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP047007;Coeur De ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049001;Belle Beille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049002;Roseraie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049003;Savary;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049004;Grand Pigeon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049005;Monplaisir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049006;Hauts De Saint Aubin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049007;Beauval Bedier Morellerie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049008;Le Grand Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049009;Bretagne Bostangis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049010;Jean Monnet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049011;Favreau Les Mauges;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049012;Colline Villeneuve;CHAR;8
+codeGeo;Code du quartier prioritaire;QP049013;Chemin Vert - Hauts Quartiers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP050001;La Turfaudière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP050002;Val Saint Jean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP050003;La Dollée;CHAR;8
+codeGeo;Code du quartier prioritaire;QP050004;Claires Fontaines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP050005;Les Provinces;CHAR;8
+codeGeo;Code du quartier prioritaire;QP050006;Maupas - Hautmarais - Brêche Du Bois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP050007;Fourches - Charcot;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051001;Quartier Prioritaire Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051002;Quartier Prioritaire Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051003;Croix Rouge;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051004;Wilson - Maison Blanche - Chatillons;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051005;Orgeval;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051006;Europe;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051007;Chalet - Solférino - Paul Petit;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051008;Walbaum;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051009;Epinettes - Maladrerie - Chemin Des Bouchers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051010;Le Hamois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051011;Rome Saint Charles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP051012;Bernon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP052001;Rochotte;CHAR;8
+codeGeo;Code du quartier prioritaire;QP052002;Cavalier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP052003;Quartier Neuf;CHAR;8
+codeGeo;Code du quartier prioritaire;QP052004;Vert-Bois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP053001;Les Fourches;CHAR;8
+codeGeo;Code du quartier prioritaire;QP053002;Kellermann;CHAR;8
+codeGeo;Code du quartier prioritaire;QP053003;Pavement - Charité - Mortier - Murat;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054001;Mouzimpré;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054002;Gouraincourt - Remparts;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054003;Concorde;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054004;Quartier Voltaire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054005;Val Saint Martin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054006;Quartier Les Mouettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054007;Quartier La Penotte;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054008;Bois Le Prêtre - Procheville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054009;Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054010;Niederbronn - Zola;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054011;Quartier La Croix De Metz;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054012;La Californie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054013;Les Provinces;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054014;Plateau De Haye - Champ Le Boeuf;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054015;Plateau De Haye Nancy - Maxéville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054016;Haussonville - Les Nations;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054017;Saint Michel Jéricho - Grands moulins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP054018;Coeur De Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP055001;Côte Sainte-Catherine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP055002;Planchettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP055003;Centre Verdun - Cité verte;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056001;Gumenen Goaner - Parco Pointer;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056002;Les 3 K : Kennedy - Kergohic - Kerihouais;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056003;Centre Ville Kerfrehour;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056004;Kervenanec Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056005;Polygone Frebault;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056006;Bois Du Château;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056007;Kerguillette Petit Paradis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056008;Kercado;CHAR;8
+codeGeo;Code du quartier prioritaire;QP056009;Ménimur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057001;Quartier Saravis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057002;La Cité;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057003;Wiesberg Hommel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057004;Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057005;Quartier Rémelange;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057006;Quartier Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057007;Côte Des Roses;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057008;Quartier Saint Pierre - La Millaire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057009;Quartier Terrasses Des Provinces;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057010;Beausoleil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057011;Vieille Ville Et Ville Haute;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057012;La Chapelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057013;Quartier République;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057014;Cité Du Furst;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057015;Carrière Wehneck;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057016;Quartier Maroc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057017;Quartier Breckelberg Fatima;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057018;Bellecroix;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057019;Hauts De Vallières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057020;Borny;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057021;Sablon Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057022;La Patrotte - Metz-Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057023;Quartier Saint-Eloy - Boileau-Pré Génie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP057024;Les Chênes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP058001;Grande Pâture - Les Montôts;CHAR;8
+codeGeo;Code du quartier prioritaire;QP058002;Le Banlay;CHAR;8
+codeGeo;Code du quartier prioritaire;QP058003;Les Bords De Loire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP058004;La Baratte - Les Courlis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP058005;Saint Laurent;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059001;Quartier Prioritaire De Hornaing;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059002;Auby Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059003;Asturies - Belleforières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059004;Résidence Gayant;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059005;Flers En Escrebieux Pont De La Deûle - Dorignies;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059006;Frais Marais;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059007;Notre Dame - La Clochette - Le Bivouac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059008;Faubourg De Béthune;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059009;Les Epis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059010;Haut Terroir - Le Vivier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059011;Les Explorateurs -  Place Du 8 Mai 1945 - Jean Jaurés - La Flamenne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059012;Quartier Du Village;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059013;Bois Du Quesnoy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059014;Centre Lambreçon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059015;Long Prés - Prés Du Paradis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059016;Pont De Pierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059017;Provinces Françaises;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059018;L'Epinette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059019;Quartier Intercommunal Sous-Le Bois Montplaisir Rue D'Hautmont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059020;Verrerie - Square République;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059021;Zone Intercommunale Rives De L'Escaut;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059022;Cité Thiers - Cité Du Rivage;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059023;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059024;Lecocq;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059025;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059026;Le Trieu;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059027;Quatre Chasses Poudrière Faiencerie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059028;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059029;La Pépinière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059030;Dutemple Chasse Royale Saint Waast - La Sentinelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059031;Zone Intercommunale Faubourg De Cambrai - La Briquette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059032;Cité Le Jard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059033;La Solitude Hermitage;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059034;Quartier Prioritaire d'Aniche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059035;Quartier Prioritaire D'Auberchicourt Et Ecaillon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059036;Quartier Prioritaire De Masny;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059037;Quartier Prioritaire De Montigny En Ostrevent;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059038;Barrois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059039;Lemay Sainte Marie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059040;Quartier Prioritaire De Somain;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059041;Résidences Pasteur Et Foch;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059042;Centre Ville - Gambetta;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059043;Coeur D'Etoile;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059044;Fourmies;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059045;Cité Des Bois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059046;Vieux Centre Ville Saint Géry;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059047;Quartier Saint Roch;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059048;Quartier Amérique;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059049;Résidence D'Esnes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059050;Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059051;Boulevard De La Liberté;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059052;Schneider;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059053;Couture Savonnerie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059054;Gambetta;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059055;Sabatier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059056;Brunehaut;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059057;Collinière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059058;Elnon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059059;Arenberg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059060;Petit Steendam;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059061;Saint Pol Sur Mer Quartiers Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059062;Banc Vert - Ile Jeanty - Carré De La Vieille - Jeu De mail;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059063;Soubise - Basse Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059064;Albeck - Europe - Moulin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059065;Degroote;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059066;Pont de Bois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059067;Résidence-Poste-Terroir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059068;Résidence;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059069;Attargette - Chanzy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059070;Bizet - Briquetterie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059071;Quartier Intercommunal Hautchamps Longchamp - Lionderie - 3 Baudets;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059072;Pacot - Vandracq;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059073;Secteur Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059074;Secteur Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059075;Secteur Nord Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059076;Secteur Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059077;Les Oliveaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059078;Clémenceau-Kiener;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059079;La Briquetterie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059080;Nouveau Mons - Les Sarts- Dombrowski;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059081;Comtesse De Ségur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059082;Quartier Intercommunal Roubaix-Tourcoing - Blanc Seau - Croix Bas Saint Pierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059083;Nouveau Roubaix;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059084;La Mouchonnière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059085;Phalempins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059086;Virolois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059087;La Bourgogne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059088;Pont Rompu;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059089;Blanc Riez;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059090;Epidéme Villas Couteaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP059091;Centralité De Beaulieu;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060001;Les Hauts De Creil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060002;Les Martinets;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060003;Les Côteaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060004;Les Rochers L'Obier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060005;Belle Vue Belle Visée;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060006;Vivier Corax;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060007;Clos Des Roses;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060008;La Victoire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060009;Saint Jean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060010;Saint Lucien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060011;Argentine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060012;Les Terriers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060013;Quartier De La Nacre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060014;Les Sables;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060015;Liancourt Les Abords Du Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060016;Quartier Kennedy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060017;Beauséjour;CHAR;8
+codeGeo;Code du quartier prioritaire;QP060018;Mont Siméon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP061001;Les Provinces;CHAR;8
+codeGeo;Code du quartier prioritaire;QP061002;Saint Michel - Vallée D'Auge;CHAR;8
+codeGeo;Code du quartier prioritaire;QP061003;Saint Michel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP061004;Saint Sauveur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP061005;La Madeleine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP061006;Perseigne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP061007;Courteille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062001;Quartier Du Mieux-Etre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062002;Camus;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062003;Plantigeons - Fosse 4;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062004;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062005;Quartier Des Cité 5 - Cité De Marles - Cité Du Rond-Point;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062006;Quartier Rimbert;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062007;Quartier Du Regain;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062008;Quartier Du Mont Liébaut;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062009;Quartier De La Rue De Lille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062010;Renaissance;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062011;Le Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062012;Terrasses Basly;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062013;Quartier Coteau Du Stade Parc-Cité 34;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062014;Quartier Des Cités 6 Et 30;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062015;Quartier Provinces - Longues Trinques;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062016;Quartier Saint-Elie - Fosse 13;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062017;Le Haut D'Houdain;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062018;Terre-Noeve;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062019;République - Cité 4;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062020;Cité Des Brebis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062021;Cité Du Transvaal - Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062022;Cité 5 - Cité 11;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062023;Cité Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062024;Cité 12-14;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062025;Grande Résidence;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062026;Cité 2;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062027;Sellier Cité 4;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062028;Calonne - Marichelles - Vent De Bise;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062029;Les Hauts De Liévin - Résidence Des Provinces - Cités 9-9bis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062030;Blum - Salengro - 109;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062031;3 Cités;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062032;Cité 10;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062033;Les Blanches Laines Fosse 11 12 13;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062034;Quartier du 3/15;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062035;Cité Des Taberneaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062036;Saint-Exupéry - Léon Blum;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062037;Quai Du commerce - Saint Sépulcre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062038;Du Village Au Moulin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062039;Rotois - Saint Roch;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062040;Cornuault;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062041;Macé - Darcy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062042;Ponchelet - Kennedy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062043;La Plaine Du 7;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062044;Zac Des Deux Villes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062045;Quartier Du Maroc - La Canche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062046;Nouméa;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062047;Languedoc - Cité 10;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062048;Quartier De La Haute Voie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062049;Damrémont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062050;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062051;Chemin Vert - Beaurepaire - Malborough;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062052;Henriville - Montplaisir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062053;Quartier Tour Du Renard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062054;Quartier Des Résidences;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062055;Fort Nieulay - Cailloux - Saint-Pierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062056;Beau Marais;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062057;Ville Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062058;Centre Historique;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062059;Quartier De La Renaissance;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062060;Quatre As;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062061;Arras Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062062;Saint Michel Goudemand;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062063;Cheminots Jean Jaurès Moulin Hacart;CHAR;8
+codeGeo;Code du quartier prioritaire;QP062064;Nouvelles Résidences;CHAR;8
+codeGeo;Code du quartier prioritaire;QP063001;Molles Cizolles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP063002;Saint-Jacques;CHAR;8
+codeGeo;Code du quartier prioritaire;QP063003;Quartiers Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP063004;La Gauthière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP063005;Fontaine Du Bac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP063006;Cournon D'Auvergne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP063007;Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP064001;Maubec - Citadelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP064002;Hauts De Sainte Croix;CHAR;8
+codeGeo;Code du quartier prioritaire;QP064003;Saragosse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP064004;Ousse Des Bois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP065001;Tarbes Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP065002;Tarbes Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP065003;Tarbes Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP065004;Ophite;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066001;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066002;Quartier Saint Assiscle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066003;Quartier Gare;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066004;Quartier Bas-Vernet Ancien Zus;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066005;Diagonale Du Haut - Moyen-Vernet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066006;Rois De Majorque;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066007;Bas-Vernet Nouveau QPV;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066008;Quartier Centre Ancien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066009;Quartier Nouveau Logis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP066010;Quartier Champs De Mars;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067001;Quartier Liberté;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067002;Les Pins - Musau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067003;Saverne - Quartiers Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067004;Quartiers Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067005;Guirbaden;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067006;Libermann;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067007;Quartier Prioritaire De Lingolsheim;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067008;Marais;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067009;Hohberg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067010;Molkenbronn;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067011;Hautepierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067012;Koenigshoffen-Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067013;Cronenbourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067014;Elsau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067015;Laiterie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067016;Neuhof - Meinau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067017;Cité De L'Ill;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067018;Spach;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067019;Ampère;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067020;Port Du Rhin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP067021;Murhof;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068001;Florimont - Bel Air;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068002;Europe - Schweitzer;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068003;Quartier Les Coteaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068004;Quartier De Bourtzwiller;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068005;Péricentre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068006;Drouot - Jonquilles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068007;Quartier Brustlein;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068008;Markstein - La Forêt;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068009;Quartier De La Gare;CHAR;8
+codeGeo;Code du quartier prioritaire;QP068010;Quartier Bel Air;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069001;Périmètre Nord De Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069002;Monod;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069003;La Source;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069004;Centre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069005;Les Pérouses;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069006;Le Garet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069007;Béligny;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069008;Belleroche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069009;Aiguerande;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069010;Parilly;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069011;Terraillon - Chenier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069012;Les Vernes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069013;La Saulaie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069014;Hautes Roches;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069015;Minguettes - Clochettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069016;Arsenal - Carnot-Parmentier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069017;Les Collonges;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069018;Grande Île;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069019;Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069020;Duclos - Barel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069021;Les Buers Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069022;Bel Air - Les Brosses;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069023;Saint-Jean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069024;Les Buers Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069025;Tonkin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069026;Prainet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069027;Le Mathiolan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069028;Ville Nouvelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069029;Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069030;Garibaldi;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069031;Bel Air;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069032;Soeurs Janin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069033;Cités Sociales Gerland;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069034;Moulin A Vent;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069035;Etats-Unis - Langlet Santy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069036;Mermoz;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069037;Duchère;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069038;Loucheur - Gorge De Loup;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069039;Les Plaines;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069040;Vallon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069041;Le Vergoin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069042;Moncey;CHAR;8
+codeGeo;Code du quartier prioritaire;QP069043;Les Plantées;CHAR;8
+codeGeo;Code du quartier prioritaire;QP070001;Rêpes - Montmarin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP070002;Le Mortard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP070003;Stade Messier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP070004;Les Chenevières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP070005;Les Capucins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071001;Aubépins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071002;Stade - Fontaine au Loup;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071003;Prés Saint-Jean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071004;La Chanaye - Résidence;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071005;Les Blanchettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071006;Les Saugeraies;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071007;Marbé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071008;Saint Pantaléon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071009;Le Tennis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071010;Harfleur - République - Lapérouse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071011;Rives Du Plessis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071012;Bois Du Verne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP071013;Résidence Du Lac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP072001;La Rocade;CHAR;8
+codeGeo;Code du quartier prioritaire;QP072002;Chaoué Perrières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP072003;Bellevue Carnac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP072004;Ronceray Glonnières Vauguyon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP072005;Les Sablons;CHAR;8
+codeGeo;Code du quartier prioritaire;QP072006;L' Epine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP072007;Montreux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP073001;Biollay - Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP073002;Les Hauts De Chambéry;CHAR;8
+codeGeo;Code du quartier prioritaire;QP073003;Marlioz;CHAR;8
+codeGeo;Code du quartier prioritaire;QP073004;Val De Roses - Contamine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP074001;Le Perrier - Château Rouge - Livron;CHAR;8
+codeGeo;Code du quartier prioritaire;QP074002;Le Chalet - Helvetia Park;CHAR;8
+codeGeo;Code du quartier prioritaire;QP074003;Les Ewües;CHAR;8
+codeGeo;Code du quartier prioritaire;QP074004;Collonges Sainte-Hélène;CHAR;8
+codeGeo;Code du quartier prioritaire;QP074005;Saint Georges - Route De Thairy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP074006;Bois Jolivet - Les Iles - Bellerive;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075001;Bédier - Boutroux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075002;Chaufourniers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075003;Villa d'Este;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075004;Kellermann - Paul Bourget;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075005;Jeanne D'Arc - Clisson;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075006;Oudiné - Chevaleret;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075007;Didot - Porte de Vanves;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075008;Porte De Saint-Ouen - Porte Pouchet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075009;Blémont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075010;Porte Montmartre - Porte Des Poissonniers - Moskova;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075011;La Chapelle - Evangile;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075012;Goutte D'Or;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075013;Porte De La Chapelle - Charles Hermite;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075014;Stalingrad Riquet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075015;Michelet - Alphonse Karr - Rue de Nantes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075016;Danube - Solidarité - Marseillaise;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075017;Algérie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075018;Compans - Pelleport;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075019;Les Portes Du Vingtième;CHAR;8
+codeGeo;Code du quartier prioritaire;QP075020;Grand Belleville 10ème - 11ème - 20ème;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076001;Val Druel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076002;Neuville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076003;Les Bruyères;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076004;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076005;Mont Gaillard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076006;Centre Ancien - Quartiers Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076007;Bois-De-Bléville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076008;Bléville Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076009;Bléville Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076010;Caucriauville Soquence;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076011;Plateau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076012;Quartier Des Arts Et Des Fleurs - Feugrais;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076013;Parc Du Robec;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076014;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076015;Les Bouttières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076016;Diderot - Les Mesliers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076017;Quartier De Binche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076018;Le Quartier Jean Moulin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076019;Oissel Sur Seine Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076020;Quartier De La Piscine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076021;Grammont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076022;Les Hauts De Rouen;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076023;Quartier Château Blanc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076024;Quartier Thorez - Grimau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076025;Quartier Hartmann - La Houssière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076026;Buisson - Gallouen;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076027;Lalizel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP076028;Parc Du Ramponneau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077001;La Renardière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077002;La Grande Prairie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077003;Schweitzer - Laennec;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077004;Orly Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077005;Les Deux Parcs-Luzard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077006;L'Arche Guedon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077007;Le Mail;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077008;La Plaine De Lys - Bernard De Poret;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077009;Les Courtilleraie - Le Circé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077010;Plateau De Corbeil - Plein-ciel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077011;Les Mezereaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077012;L'Almont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077013;Beauval Dunant;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077014;Surville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077015;Les Fougères;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077016;Résidence Montmirail;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077017;Champbenoist;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077018;Anne Franck;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077019;Les Templiers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077020;Mont Saint Martin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077021;Quartier République Vilvaudé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077022;Lugny Maronniers - Résidence Du Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077023;Centre Ville -  Quartier De L'Europe;CHAR;8
+codeGeo;Code du quartier prioritaire;QP077024;Droits De L'Homme;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078001;Val Fourré;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078002;Merisiers Plaisances;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078003;Domaine De La Vallée;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078004;Petits Prés  Sept Mares;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078005;Pont Du Routoir 2;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078006;Merisiers-Plaine De Neauphle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078007;Jean Macé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078008;Bois De L'Etang;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078009;Oiseaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078010;Fleurs;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078011;Noe-Feucherets;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078012;Cité Du Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078013;Centre-Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078014;Alouettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078015;Plateau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078016;Vieux Pays;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078017;Valibout;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078018;Friches;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078019;Beauregard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078020;Saint Exupéry;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078021;Cinq Quartiers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP078022;Cité Renault - Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP079001;Clou Bouchet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP079002;Tour Chabot Gavacherie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP079003;Pontreau Colline Saint André;CHAR;8
+codeGeo;Code du quartier prioritaire;QP079004;Les Capucins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP079005;Valette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080001;Étouvie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080002;Pierre Rollin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080003;Amiens Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080004;Marcel Paul Salamandre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080005;Condorcet Philéas Lebesgue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080006;Les Parcheminiers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080007;Soleil Levant;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080008;L'Espérance;CHAR;8
+codeGeo;Code du quartier prioritaire;QP080009;Les Argillières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081001;La Falgalarié;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081002;Laden Petit Train;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081003;Lameilhé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081004;Aillot Bisséous Lardaillé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081005;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081006;Cantepau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081007;Veyrières Rayssac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081008;Lapanouse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081009;Rajol - Cérou - Gourgatieux - Bouloc - Verrerie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081010;Lentajou - Catalanis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP081011;Crins - En Gach;CHAR;8
+codeGeo;Code du quartier prioritaire;QP082001;Coeur de Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP082002;Médiathèque - Chambord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP082003;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP082004;Sarlac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083001;L'Agachon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083002;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083003;Les Collettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083004;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083005;Romain Rolland;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083006;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083007;Val Des Rougières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083008;Berthe;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083009;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083010;La Beaucaire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083011;La Florane;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083012;Pontcarral;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083013;Pont Du Las- Rodeilhac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083014;Beaulieu- Sainte Marie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083015;Sainte Musse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083016;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083017;Le Jonquet- La Baume- Le Guynemer;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083018;La Gabelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083019;Centre Ville - Le Vergeiras;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083020;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP083021;Le Carami;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084001;Quartiers Griffons Et Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084002;Monclar Champfleury Rocade Sud Barbière Croix Des Oiseaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084003;Quartiers Nord Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084004;Quartier De Saint Chamand;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084005;Quartiers Camp Rambaud - Les Mérides;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084006;Quartiers Joffre Et Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084007;Quartiers Centre Ancien Et Sud Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084008;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084009;Amandier - Eléphants;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084010;Pous Du Plan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084011;Quintine - Villemarie - Ubac - Le Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084012;Fourchevieilles Comtadines L'Aygues;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084013;Quartiers Nogent Saint Clément;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084014;Quartiers Générat Establet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084015;Quartier De Chaffunes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084016;Quartiers Du Vieux Moulin Aux Mûriers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084017;Centre Ancien Et Quartier De Saint Michel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084018;Quartiers Nord - Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084019;Centre ancien - Les Tours - La Gaillarde - Mistral - Sévigné;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084020;Quartiers Dr Ayme Condamines Barillon Saint Martin Bon Puits Saint Gilles Ratacans;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084021;Quartiers La Clède Gare Route De Pertuis Saint Anne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP084022;Nord Du Centre Ancien Giono Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP085001;Jean Yole - Pyramides;CHAR;8
+codeGeo;Code du quartier prioritaire;QP085002;Vigne-aux-Roses;CHAR;8
+codeGeo;Code du quartier prioritaire;QP085003;Liberté - Zola;CHAR;8
+codeGeo;Code du quartier prioritaire;QP085004;Centre - Moulins Liots;CHAR;8
+codeGeo;Code du quartier prioritaire;QP086001;Lac Renardières Ozon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP086002;Châteauneuf Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP086003;Bel Air;CHAR;8
+codeGeo;Code du quartier prioritaire;QP086004;Trois Cités;CHAR;8
+codeGeo;Code du quartier prioritaire;QP086005;Couronneries;CHAR;8
+codeGeo;Code du quartier prioritaire;QP086006;Beaulieu;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087001;Portes Ferrées;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087002;La Bastide;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087003;Le Sablard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087004;Beaubreuil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087005;Val De L'Aurence Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087006;Val De L'Aurence Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087007;Les Coutures;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087008;Bellevue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP087009;Le Vigenal;CHAR;8
+codeGeo;Code du quartier prioritaire;QP088001;Bitola;CHAR;8
+codeGeo;Code du quartier prioritaire;QP088002;La Justice;CHAR;8
+codeGeo;Code du quartier prioritaire;QP088003;Le Haut Du Gras;CHAR;8
+codeGeo;Code du quartier prioritaire;QP088004;Le Rhumont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP088005;Saint Roch - L'Orme;CHAR;8
+codeGeo;Code du quartier prioritaire;QP088006;Kellermann;CHAR;8
+codeGeo;Code du quartier prioritaire;QP089001;La Rive Droite;CHAR;8
+codeGeo;Code du quartier prioritaire;QP089002;Les Brichères - Sainte Geneviève;CHAR;8
+codeGeo;Code du quartier prioritaire;QP089003;Les Rosoirs;CHAR;8
+codeGeo;Code du quartier prioritaire;QP089004;Pompidou-Ravel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP089005;La Madeleine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP089006;Arènes - Champs Plaisants;CHAR;8
+codeGeo;Code du quartier prioritaire;QP089007;Les Chaillots;CHAR;8
+codeGeo;Code du quartier prioritaire;QP090001;Bougenel - Mulhouse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP090002;Les Glacis Du Château;CHAR;8
+codeGeo;Code du quartier prioritaire;QP090003;Dardel La Méchelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP090004;Résidences Le Mont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP090005;Arsot Ganghoffer;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091001;Le Bois Des Roches;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091002;Les Tarterêts;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091003;Montconseil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091004;La Nacelle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091005;Rive Droite;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091006;Quartier Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091007;Les Ardrets;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091008;Les Aunettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091009;La Grange Aux Cerfs;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091010;Les Aunettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091011;Les Hautes Mardelles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091012;Plaine - Cinéastes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091013;Le Vieillet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091014;Bel Air - Rocade;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091015;Bièvre Poterne - Zola;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091016;Le Canal;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091017;Pyramides - Bois Sauvage;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091018;Les Aunettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091019;Champtier Du Coq;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091020;Petit Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091021;Le Parc Aux Lièvres;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091022;Les Passages;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091023;Les Epinettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091024;Champs Elysées;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091025;Le Plateau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091026;La Grande Borne - Le Plateau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091027;Grigny 2;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091028;Le Noyer Renard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091029;Clos Nollet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091030;Grand Vaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091031;Les Bergeries;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091032;La Forêt;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091033;La Croix Blanche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091034;La Prairie De L'Oly;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091035;Quartier Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091036;Le Tiec;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091037;Plateau De Guinette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091038;La Croix  De Vernailles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP091039;Opéra;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092001;Bac D'Asnières - Beaujon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092002;Université I;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092003;Université II;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092004;Noyer Doré;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092005;Cité Jardins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092006;Chemin De L'île;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092007;Le Parc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092008;Abbé Grégoire - Mirabeau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092009;Tertres-Cuverons;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092010;Les Courtilles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092011;Fossés Jean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092012;Hauts d'Asnières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092013;Agnettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092014;Entrée De Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092015;Petit Colombes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092016;Petit Nanterre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092017;Grésillons Voltaire I - Gabriel Péri;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092018;Grésillons Voltaire II - Grésillons;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092019;AIRE 2029;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092020;Cité Des Musiciens;CHAR;8
+codeGeo;Code du quartier prioritaire;QP092021;Les Musiciens;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093001;Secteur Gare - Aviatic;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093002;Secteur Saint-Nicolas - Guynemer - Gai Logis;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093003;Haut Clichy - Centre Ville - Bosquets - Lucien Noel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093004;Quartier Avenir Parisien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093005;Quartiers La Muette - Village Parisien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093006;Quartiers Economie - Les Oiseaux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093007;Thorez - Larivière - Langevin - Moulin - Allende;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093008;La Capsulerie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093009;Le Plateau - Les Malassis - La Noue;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093010;Les Courtillières - Pont-De-Pierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093011;Quartier Salengro - Gaston Roulaud - Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093012;Blanqui;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093013;Marnaudes - Fosse Aux Bergers - La Sablière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093014;Abreuvoir - Bondy Nord - Bondy Centre - Pont-De-Bondy - La Sablière - Secteur Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093015;Trois Communes - Fabien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093016;Branly - Boissière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093017;Boissière - Saussaie-Beauclair;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093018;Bel Air - Grands Pêchers - Ruffins - Le Morillon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093019;Jean Moulin - Espoir;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093020;Béthisy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093021;Le Londeau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093022;La Boissière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093023;Sept Arpents - Stalingrad;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093024;Quatre Chemins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093025;Marcel Cachin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093026;Quartier de L'Horloge;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093027;Gagarine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093028;Franc Moisin - Cosmonautes - Cristino Garcia - Landy;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093029;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093030;Orgemont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093031;La Source - Les Presles;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093032;Thorez-Géraux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093033;Méchin - Bocage;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093034;Paul-Cachin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093035;Centre Ville - Chatenay - Maroc - Poètes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093036;Joncherolles - Fauvettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093037;Plaine - Landy - Bailly;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093038;Pleyel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093039;Grand Centre - Sémard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093040;Floréal Saussaie Allende;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093041;Plaine Trezel - Chaudron;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093042;Saint-Rémy - Joliot Curie - Bel Air;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093043;Langevin - Lavoisier - Tartres - Allende;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093044;Cordon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093045;Michelet - Les Puces - Debain;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093046;Vieux Saint-Ouen;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093047;Pasteur - Arago - Zola;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093048;Centre Elargi;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093049;Quartier Politique De La Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093050;Rougemont;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093051;Montceleux - Pont Blanc;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093052;Parc De La Noue - Picasso - Pasteur - Europe - Merisiers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093053;Tremblay Grand Ensemble;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093054;Les Beaudottes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093055;Secteur Nord Pont-Yblon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093056;Jean Moulin - Jean Bouin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093057;Les Peupliers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093058;Val Coteau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093059;Mont d'Est - Palacio;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093060;Pavé-Neuf;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093061;Champy - Hauts Bâtons;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093062;Pré-Gentil;CHAR;8
+codeGeo;Code du quartier prioritaire;QP093063;Marnaudes - Bois-Perrier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094001;Pierre Et Marie Curie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094002;Irlandais - Paul Vaillant Couturier - Cherchefeuille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094003;La Haie Griselle - La Hêtraie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094004;Chantereine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094005;Mont Mesly - La Habette - Coteaux Du Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094006;Petit Pré - Sablières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094007;Les Bleuets;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094008;Gagarine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094009;Ivry Port;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094010;Monmousseau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094011;Colonel Fabien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094012;Centre Ville : Defresne - Vilmorin - Robespierre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094013;Commune De Paris - 8 Mai 1945;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094014;Balzac;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094015;Péri - Schuman  Bergonié;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094016;Chaperon Vert;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094017;Jardins Parisiens;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094018;Lallier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094019;Jardins Parisiens - Stade;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094020;Alexandre Dumas;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094021;Lebon - Hochart - Mermoz (Lozaits Sud);CHAR;8
+codeGeo;Code du quartier prioritaire;QP094022;Lozaits Nord - Grimau - Armand Gouret;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094023;Fabien;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094024;Les Quatre Cités;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094025;L'Egalité;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094026;Les Mordacs;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094027;Le Bois L'Abbé;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094028;Le Plateau;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094029;La Redoute (Le Fort-Michelet);CHAR;8
+codeGeo;Code du quartier prioritaire;QP094030;Les Larris;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094031;Quartier Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094032;Quartier Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094033;Rives De La Marne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094034;Les Grands Champs;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094035;Polognes-Centre Ville - Le Plateau - Saint-Martin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094036;Lutèce- Bergerie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094037;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094038;Le Quartier Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094039;Le Quartier Nord- Les Tours;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094040;Triage;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094041;Portes De Paris - Les Hautes-Noues;CHAR;8
+codeGeo;Code du quartier prioritaire;QP094042;Cité Jardins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095001;Noyer Crapaud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095002;Justice - Butte Blanche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095003;Champioux;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095004;Brigadières - Henri Barbusse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095005;Val D'Argent Nord;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095006;Val D'Argent Sud;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095007;Champagne;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095008;Joliot Curie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095009;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095010;Delaune Masson Colomb;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095011;Axe Majeur - Horloge;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095012;La Sébille;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095013;Les Dix Arpents;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095014;Le Moulinard;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095015;Marcouville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095016;Louvrais;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095017;Chennevières - Parc Le Nôtre;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095018;Clos Du Roi;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095019;Les Toupets - Côte Des Carrières;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095020;Les Lévriers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095021;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095022;Mare Des Noues;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095023;Montédour;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095024;Les Naquettes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095025;Les Frances;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095026;Clos Saint Pierre Elargi;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095027;Bas Des Aulnaies - Carreaux Fleuris - Fontaine Bertin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095028;Les Pins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095029;Les Sarments Et Les Nérins;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095030;Cottage Elargi;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095031;Grandes Bornes Elargies;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095032;Dame Blanche;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095033;Lochères;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095034;Carreaux - Fauconnière - Marronniers - Pôle Gare;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095035;Saint Blin;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095036;Rosiers Chantepie;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095037;Village - Mozart;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095038;Village - Le Puits La Marlière - Derrière Les Murs De Monseigneur;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095039;Les Chênes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095040;Le Village;CHAR;8
+codeGeo;Code du quartier prioritaire;QP095041;Les Raguenets;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971001;Boissard-Morne Flory;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971002;Vieux Bourg - Les Lauriers;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971003;Grand Camp;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971004;Cour Charneau-Raizet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971005;Raizet;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971006;Bourg - Saint Robert - Cadet - Bois Raimbault- Jean Jaurès;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971007;Bologne - Rivière Des Pères - Calebassier - Pintade - Chevalier Saint Georges - Mallian;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971008;Le Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971009;Sarlassone Petit Pérou;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971010;Bananier - Haute Plaine;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971011;Champ Grille 2;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971012;Le Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971013;Mortenol;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971014;Chemin Neuf Carénage Darboussier;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971015;Le Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP971016;La Boucan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP972001;Quartiers Ouest;CHAR;8
+codeGeo;Code du quartier prioritaire;QP972002;Quartiers Sainte-Thérèse – Bon Air;CHAR;8
+codeGeo;Code du quartier prioritaire;QP972003;Quartier Volga Plage;CHAR;8
+codeGeo;Code du quartier prioritaire;QP972004;Quartier Haut Dillon;CHAR;8
+codeGeo;Code du quartier prioritaire;QP972005;Frange Ouest Du Centre-Ville Aggloméré;CHAR;8
+codeGeo;Code du quartier prioritaire;QP972006;Zone De Cité Lacroix Trou Terre Pointe Lynch;CHAR;8
+codeGeo;Code du quartier prioritaire;QP972007;Tombolo City;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973001;Anatole;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973002;Bonhomme;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973003;Pasteur Voltaire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973004;Cabassou;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973005;De Gaulle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973006;Eau Lisette;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973007;Galmot;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973008;Village Chinois;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973009;Mango;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973010;Mirza;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973011;Mont Baduel;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973012;Centre-Ville Marché;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973013;Thémire;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973014;Eldo;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973015;L'Anse;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973016;Mairie-Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973017;Soula;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973018;Tonate;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973019;Balata;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973020;Cotonnière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973021;Cogneau Est;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973022;Le Grand Larivot;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973023;Sud Bourg;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973024;Mahury-Dedrad Des Cannes;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973025;Résidence Arc En Ciel Alizées;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973026;Lot Tarzan;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973027;Balate-Charbonnière;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973028;Centre Ville;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973029;Fatima - Route De Mana;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973030;RN1-Les Sables Blancs;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973031;Saint-Jean;CHAR;8
+codeGeo;Code du quartier prioritaire;QP973032;Saint-Maurice;CHAR;8
+codeGeo;Code du quartier prioritaire;QP978001;Quartier D'Orléans - Gloire - Griselle;CHAR;8
+codeGeo;Code du quartier prioritaire;QP978002;Sandy Ground;CHAR;8
